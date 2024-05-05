@@ -1,1 +1,1 @@
-Unlock underwater insights: YOLOv7 model trained on Brackish Dataset for your research. 
+Research-proven YOLOv7 model tackles the challenges of underwater object detection. Achieve precision and clarity in complex underwater environments
