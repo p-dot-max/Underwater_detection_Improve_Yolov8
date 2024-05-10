@@ -1,0 +1,8 @@
+train: /content/drive/MyDrive/Yolo/datasets/train
+val: /content/drive/MyDrive/Yolo/datasets/valid
+test: /content/drive/MyDrive/Yolo/datasets/test
+
+nc: 6
+
+names: [ 'crab', 'fish', 'jellyfish', 'shrimp', 'small_fish', 'starfish' ]
+
